@@ -5,8 +5,8 @@ This simple Spring Boot application demonstrates a simple web-based file upload.
 
 Screenshots:
 
-![Login](screenshots/login.png?raw=true =250x)
-![Home](screenshots/home.png?raw=true =250x)
-![Upload](screenshots/upload.png?raw=true =250x)
-![Complete](screenshots/complete.png?raw=true =250x)
+![Login](screenshots/login.png?raw=true) {:width="250px"} 
+![Home](screenshots/home.png?raw=truei) {:width="250px"}
+![Upload](screenshots/upload.png?raw=true) {:width="250px"}
+![Complete](screenshots/complete.png?raw=true) {:width="250px"}
 
